@@ -1,0 +1,7 @@
+{
+  "name": "safe space",
+  "description": "A secure and private mental health platform connecting users with professional therapists for emotional support and session management.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
